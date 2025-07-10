@@ -22,4 +22,4 @@ This repository features a front-end clone of the Netflix homepage, meticulously
 
 
 ## 🔗 Live Demo
-[Click Here to View the Live Project](https://roshanrana09.github.io/Netflix-clone/)
+[Click Here to View the Live Project](neon-truffle-df2007.netlify.app)
