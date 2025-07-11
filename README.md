@@ -22,4 +22,4 @@ This repository features a front-end clone of the Netflix homepage, meticulously
 
 
 ## 🔗 Live Demo
-[Click Here to View the Live Project](https://roshanrrana.github.io/Netflix-clone/)
+[Click Here to View the Live Project](https://roshanrrana.github.io/)
