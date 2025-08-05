@@ -20,6 +20,3 @@ This repository features a front-end clone of the Netflix homepage, meticulously
 
 * **CSS3:** For all styling, layout, and responsiveness.
 
-
-## 🔗 Live Demo
-[Click Here to View the Live Project]( )
